@@ -84,6 +84,8 @@ Berikut adalah cetak biru (*blueprint*) arsitektur tata letak dan hubungan antar
 ---
 
 ## 📦 Berkas Unduhan (ZIP)
+<img width="1774" height="887" alt="preview-Agentic ai" src="https://github.com/user-attachments/assets/46ee0341-5ac5-4b83-83f1-03ee4cf464bc" />
+
 
 | Model AI | Peringkat | Berkas Zip |
 | :--- | :--- | :--- |
