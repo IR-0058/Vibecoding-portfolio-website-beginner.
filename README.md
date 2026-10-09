@@ -77,6 +77,21 @@ Berikut adalah cetak biru (*blueprint*) arsitektur tata letak dan hubungan antar
 
 ---
 
+## 🖼️ Pratinjau Tampilan Output AI
+
+![Pratinjau Hasil 4 Agentic AI](preview-ai.png)
+
+---
+
+## 📦 Berkas Unduhan (ZIP)
+
+| Model AI | Peringkat | Berkas Zip |
+| :--- | :--- | :--- |
+| 🥇 **Claude** | Output Terbaik | *(Akses Terbatas)* |
+| 🥈 **OpenCode.ai** | Peringkat 2 | [Unduh Zip](./Situs%20web%20dasar%20dari%20Output%20opencode.zip) |
+| 🥉 **ChatGPT** | Peringkat 3 | [Unduh Zip](./Situs%20web%20dasar%20dari%20Output%20ChatGPT.zip) |
+| 🏅 **Gemini** | Peringkat 4 | [Unduh Zip](./Situs%20web%20dasar%20dari%20Output%20gemini.zip) |
+
 ## 💡 Kesimpulan
 
 Bagi pemula tanpa keahlian koding, memahami teknik pembentukan *prompt* (PRD) yang terstruktur adalah kunci utama. **Claude** dan **OpenCode.ai** menjadi pilihan paling direkomendasikan untuk membantu membangun struktur awal proyek web secara instan, meskipun penyempurnaan manual tetap diperlukan.
